@@ -1,0 +1,7 @@
+f = open('test.txt', 'w')
+f.write('{}:{}      '.format('Cluster', '1!'))
+f.write('{} {}\n'.format('Cluster', '1!'))
+f.write('{} {}\n'.format('Cluster', '1!'))
+f.write('hello\n')
+f.write('hello')
+f.close()

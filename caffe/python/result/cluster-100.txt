@@ -1,0 +1,2378 @@
+total points:
+79072
+Cluster 1
+Cluster number:
+37
+Cluster 2
+Cluster number:
+50
+Cluster 3
+Cluster number:
+96
+Cluster 4
+Cluster number:
+28
+Cluster 5
+Cluster number:
+110
+Cluster 6
+Cluster number:
+65
+Cluster 7
+Cluster number:
+145
+Cluster 8
+Cluster number:
+81
+Cluster 9
+Cluster number:
+86
+Cluster 10
+Cluster number:
+115
+Cluster 11
+Cluster number:
+146
+Cluster 12
+Cluster number:
+138
+Cluster 13
+Cluster number:
+108
+Cluster 14
+Cluster number:
+195
+Cluster 15
+Cluster number:
+169
+Cluster 16
+Cluster number:
+117
+Cluster 17
+Cluster number:
+99
+Cluster 18
+Cluster number:
+95
+Cluster 19
+Cluster number:
+42
+Cluster 20
+Cluster number:
+101
+Cluster 21
+Cluster number:
+110
+Cluster 22
+Cluster number:
+71
+Cluster 23
+Cluster number:
+72
+Cluster 24
+Cluster number:
+112
+Cluster 25
+Cluster number:
+135
+Cluster 26
+Cluster number:
+74
+Cluster 27
+Cluster number:
+127
+Cluster 28
+Cluster number:
+101
+Cluster 29
+Cluster number:
+111
+Cluster 30
+Cluster number:
+64
+Cluster 31
+Cluster number:
+124
+Cluster 32
+Cluster number:
+150
+Cluster 33
+Cluster number:
+57
+Cluster 34
+Cluster number:
+112
+Cluster 35
+Cluster number:
+130
+Cluster 36
+Cluster number:
+20
+Cluster 37
+Cluster number:
+57
+Cluster 38
+Cluster number:
+120
+Cluster 39
+Cluster number:
+116
+Cluster 40
+Cluster number:
+46
+Cluster 41
+Cluster number:
+86
+Cluster 42
+Cluster number:
+80
+Cluster 43
+Cluster number:
+59
+Cluster 44
+Cluster number:
+150
+Cluster 45
+Cluster number:
+118
+Cluster 46
+Cluster number:
+93
+Cluster 47
+Cluster number:
+112
+Cluster 48
+Cluster number:
+143
+Cluster 49
+Cluster number:
+109
+Cluster 50
+Cluster number:
+113
+Cluster 51
+Cluster number:
+112
+Cluster 52
+Cluster number:
+107
+Cluster 53
+Cluster number:
+94
+Cluster 54
+Cluster number:
+182
+Cluster 55
+Cluster number:
+141
+Cluster 56
+Cluster number:
+83
+Cluster 57
+Cluster number:
+60
+Cluster 58
+Cluster number:
+140
+Cluster 59
+Cluster number:
+123
+Cluster 60
+Cluster number:
+122
+Cluster 61
+Cluster number:
+95
+Cluster 62
+Cluster number:
+94
+Cluster 63
+Cluster number:
+78
+Cluster 64
+Cluster number:
+108
+Cluster 65
+Cluster number:
+125
+Cluster 66
+Cluster number:
+135
+Cluster 67
+Cluster number:
+120
+Cluster 68
+Cluster number:
+101
+Cluster 69
+Cluster number:
+134
+Cluster 70
+Cluster number:
+97
+Cluster 71
+Cluster number:
+130
+Cluster 72
+Cluster number:
+91
+Cluster 73
+Cluster number:
+116
+Cluster 74
+Cluster number:
+64
+Cluster 75
+Cluster number:
+104
+Cluster 76
+Cluster number:
+101
+Cluster 77
+Cluster number:
+128
+Cluster 78
+Cluster number:
+99
+Cluster 79
+Cluster number:
+87
+Cluster 80
+Cluster number:
+119
+Cluster 81
+Cluster number:
+38
+Cluster 82
+Cluster number:
+63
+Cluster 83
+Cluster number:
+76
+Cluster 84
+Cluster number:
+81
+Cluster 85
+Cluster number:
+89
+Cluster 86
+Cluster number:
+115
+Cluster 87
+Cluster number:
+84
+Cluster 88
+Cluster number:
+139
+Cluster 89
+Cluster number:
+97
+Cluster 90
+Cluster number:
+168
+Cluster 91
+Cluster number:
+51
+Cluster 92
+Cluster number:
+120
+Cluster 93
+Cluster number:
+85
+Cluster 94
+Cluster number:
+72
+Cluster 95
+Cluster number:
+66
+Cluster 96
+Cluster number:
+130
+Cluster 97
+Cluster number:
+103
+Cluster 98
+Cluster number:
+83
+Cluster 99
+Cluster number:
+175
+Cluster 100
+Cluster number:
+157
+Cluster 101
+Cluster number:
+132
+Cluster 102
+Cluster number:
+76
+Cluster 103
+Cluster number:
+88
+Cluster 104
+Cluster number:
+75
+Cluster 105
+Cluster number:
+100
+Cluster 106
+Cluster number:
+52
+Cluster 107
+Cluster number:
+128
+Cluster 108
+Cluster number:
+100
+Cluster 109
+Cluster number:
+176
+Cluster 110
+Cluster number:
+106
+Cluster 111
+Cluster number:
+80
+Cluster 112
+Cluster number:
+86
+Cluster 113
+Cluster number:
+68
+Cluster 114
+Cluster number:
+64
+Cluster 115
+Cluster number:
+58
+Cluster 116
+Cluster number:
+110
+Cluster 117
+Cluster number:
+73
+Cluster 118
+Cluster number:
+95
+Cluster 119
+Cluster number:
+101
+Cluster 120
+Cluster number:
+105
+Cluster 121
+Cluster number:
+154
+Cluster 122
+Cluster number:
+137
+Cluster 123
+Cluster number:
+88
+Cluster 124
+Cluster number:
+105
+Cluster 125
+Cluster number:
+80
+Cluster 126
+Cluster number:
+137
+Cluster 127
+Cluster number:
+81
+Cluster 128
+Cluster number:
+82
+Cluster 129
+Cluster number:
+56
+Cluster 130
+Cluster number:
+91
+Cluster 131
+Cluster number:
+102
+Cluster 132
+Cluster number:
+67
+Cluster 133
+Cluster number:
+45
+Cluster 134
+Cluster number:
+136
+Cluster 135
+Cluster number:
+86
+Cluster 136
+Cluster number:
+112
+Cluster 137
+Cluster number:
+97
+Cluster 138
+Cluster number:
+122
+Cluster 139
+Cluster number:
+124
+Cluster 140
+Cluster number:
+63
+Cluster 141
+Cluster number:
+37
+Cluster 142
+Cluster number:
+156
+Cluster 143
+Cluster number:
+127
+Cluster 144
+Cluster number:
+67
+Cluster 145
+Cluster number:
+70
+Cluster 146
+Cluster number:
+71
+Cluster 147
+Cluster number:
+96
+Cluster 148
+Cluster number:
+62
+Cluster 149
+Cluster number:
+126
+Cluster 150
+Cluster number:
+143
+Cluster 151
+Cluster number:
+81
+Cluster 152
+Cluster number:
+175
+Cluster 153
+Cluster number:
+120
+Cluster 154
+Cluster number:
+100
+Cluster 155
+Cluster number:
+64
+Cluster 156
+Cluster number:
+93
+Cluster 157
+Cluster number:
+73
+Cluster 158
+Cluster number:
+75
+Cluster 159
+Cluster number:
+117
+Cluster 160
+Cluster number:
+71
+Cluster 161
+Cluster number:
+52
+Cluster 162
+Cluster number:
+142
+Cluster 163
+Cluster number:
+33
+Cluster 164
+Cluster number:
+152
+Cluster 165
+Cluster number:
+154
+Cluster 166
+Cluster number:
+160
+Cluster 167
+Cluster number:
+72
+Cluster 168
+Cluster number:
+80
+Cluster 169
+Cluster number:
+74
+Cluster 170
+Cluster number:
+145
+Cluster 171
+Cluster number:
+51
+Cluster 172
+Cluster number:
+113
+Cluster 173
+Cluster number:
+122
+Cluster 174
+Cluster number:
+113
+Cluster 175
+Cluster number:
+174
+Cluster 176
+Cluster number:
+99
+Cluster 177
+Cluster number:
+81
+Cluster 178
+Cluster number:
+128
+Cluster 179
+Cluster number:
+60
+Cluster 180
+Cluster number:
+58
+Cluster 181
+Cluster number:
+130
+Cluster 182
+Cluster number:
+84
+Cluster 183
+Cluster number:
+77
+Cluster 184
+Cluster number:
+55
+Cluster 185
+Cluster number:
+142
+Cluster 186
+Cluster number:
+120
+Cluster 187
+Cluster number:
+112
+Cluster 188
+Cluster number:
+98
+Cluster 189
+Cluster number:
+44
+Cluster 190
+Cluster number:
+48
+Cluster 191
+Cluster number:
+76
+Cluster 192
+Cluster number:
+125
+Cluster 193
+Cluster number:
+56
+Cluster 194
+Cluster number:
+134
+Cluster 195
+Cluster number:
+65
+Cluster 196
+Cluster number:
+33
+Cluster 197
+Cluster number:
+117
+Cluster 198
+Cluster number:
+64
+Cluster 199
+Cluster number:
+69
+Cluster 200
+Cluster number:
+48
+Cluster 201
+Cluster number:
+32
+Cluster 202
+Cluster number:
+111
+Cluster 203
+Cluster number:
+83
+Cluster 204
+Cluster number:
+54
+Cluster 205
+Cluster number:
+43
+Cluster 206
+Cluster number:
+69
+Cluster 207
+Cluster number:
+36
+Cluster 208
+Cluster number:
+89
+Cluster 209
+Cluster number:
+121
+Cluster 210
+Cluster number:
+131
+Cluster 211
+Cluster number:
+67
+Cluster 212
+Cluster number:
+62
+Cluster 213
+Cluster number:
+101
+Cluster 214
+Cluster number:
+105
+Cluster 215
+Cluster number:
+107
+Cluster 216
+Cluster number:
+72
+Cluster 217
+Cluster number:
+100
+Cluster 218
+Cluster number:
+56
+Cluster 219
+Cluster number:
+60
+Cluster 220
+Cluster number:
+64
+Cluster 221
+Cluster number:
+72
+Cluster 222
+Cluster number:
+91
+Cluster 223
+Cluster number:
+94
+Cluster 224
+Cluster number:
+81
+Cluster 225
+Cluster number:
+116
+Cluster 226
+Cluster number:
+148
+Cluster 227
+Cluster number:
+107
+Cluster 228
+Cluster number:
+112
+Cluster 229
+Cluster number:
+158
+Cluster 230
+Cluster number:
+122
+Cluster 231
+Cluster number:
+120
+Cluster 232
+Cluster number:
+98
+Cluster 233
+Cluster number:
+43
+Cluster 234
+Cluster number:
+115
+Cluster 235
+Cluster number:
+117
+Cluster 236
+Cluster number:
+105
+Cluster 237
+Cluster number:
+69
+Cluster 238
+Cluster number:
+143
+Cluster 239
+Cluster number:
+83
+Cluster 240
+Cluster number:
+113
+Cluster 241
+Cluster number:
+58
+Cluster 242
+Cluster number:
+189
+Cluster 243
+Cluster number:
+70
+Cluster 244
+Cluster number:
+112
+Cluster 245
+Cluster number:
+107
+Cluster 246
+Cluster number:
+123
+Cluster 247
+Cluster number:
+122
+Cluster 248
+Cluster number:
+136
+Cluster 249
+Cluster number:
+149
+Cluster 250
+Cluster number:
+64
+Cluster 251
+Cluster number:
+83
+Cluster 252
+Cluster number:
+134
+Cluster 253
+Cluster number:
+71
+Cluster 254
+Cluster number:
+124
+Cluster 255
+Cluster number:
+75
+Cluster 256
+Cluster number:
+88
+Cluster 257
+Cluster number:
+82
+Cluster 258
+Cluster number:
+107
+Cluster 259
+Cluster number:
+48
+Cluster 260
+Cluster number:
+97
+Cluster 261
+Cluster number:
+79
+Cluster 262
+Cluster number:
+63
+Cluster 263
+Cluster number:
+152
+Cluster 264
+Cluster number:
+183
+Cluster 265
+Cluster number:
+188
+Cluster 266
+Cluster number:
+80
+Cluster 267
+Cluster number:
+102
+Cluster 268
+Cluster number:
+109
+Cluster 269
+Cluster number:
+42
+Cluster 270
+Cluster number:
+99
+Cluster 271
+Cluster number:
+94
+Cluster 272
+Cluster number:
+156
+Cluster 273
+Cluster number:
+36
+Cluster 274
+Cluster number:
+152
+Cluster 275
+Cluster number:
+74
+Cluster 276
+Cluster number:
+143
+Cluster 277
+Cluster number:
+102
+Cluster 278
+Cluster number:
+122
+Cluster 279
+Cluster number:
+67
+Cluster 280
+Cluster number:
+64
+Cluster 281
+Cluster number:
+129
+Cluster 282
+Cluster number:
+114
+Cluster 283
+Cluster number:
+127
+Cluster 284
+Cluster number:
+95
+Cluster 285
+Cluster number:
+84
+Cluster 286
+Cluster number:
+55
+Cluster 287
+Cluster number:
+98
+Cluster 288
+Cluster number:
+89
+Cluster 289
+Cluster number:
+99
+Cluster 290
+Cluster number:
+156
+Cluster 291
+Cluster number:
+101
+Cluster 292
+Cluster number:
+70
+Cluster 293
+Cluster number:
+82
+Cluster 294
+Cluster number:
+104
+Cluster 295
+Cluster number:
+186
+Cluster 296
+Cluster number:
+138
+Cluster 297
+Cluster number:
+137
+Cluster 298
+Cluster number:
+57
+Cluster 299
+Cluster number:
+66
+Cluster 300
+Cluster number:
+134
+Cluster 301
+Cluster number:
+93
+Cluster 302
+Cluster number:
+39
+Cluster 303
+Cluster number:
+107
+Cluster 304
+Cluster number:
+179
+Cluster 305
+Cluster number:
+90
+Cluster 306
+Cluster number:
+130
+Cluster 307
+Cluster number:
+104
+Cluster 308
+Cluster number:
+173
+Cluster 309
+Cluster number:
+95
+Cluster 310
+Cluster number:
+135
+Cluster 311
+Cluster number:
+117
+Cluster 312
+Cluster number:
+92
+Cluster 313
+Cluster number:
+35
+Cluster 314
+Cluster number:
+139
+Cluster 315
+Cluster number:
+68
+Cluster 316
+Cluster number:
+128
+Cluster 317
+Cluster number:
+154
+Cluster 318
+Cluster number:
+63
+Cluster 319
+Cluster number:
+148
+Cluster 320
+Cluster number:
+120
+Cluster 321
+Cluster number:
+55
+Cluster 322
+Cluster number:
+81
+Cluster 323
+Cluster number:
+104
+Cluster 324
+Cluster number:
+100
+Cluster 325
+Cluster number:
+58
+Cluster 326
+Cluster number:
+141
+Cluster 327
+Cluster number:
+93
+Cluster 328
+Cluster number:
+76
+Cluster 329
+Cluster number:
+100
+Cluster 330
+Cluster number:
+185
+Cluster 331
+Cluster number:
+151
+Cluster 332
+Cluster number:
+170
+Cluster 333
+Cluster number:
+146
+Cluster 334
+Cluster number:
+90
+Cluster 335
+Cluster number:
+56
+Cluster 336
+Cluster number:
+112
+Cluster 337
+Cluster number:
+97
+Cluster 338
+Cluster number:
+110
+Cluster 339
+Cluster number:
+117
+Cluster 340
+Cluster number:
+123
+Cluster 341
+Cluster number:
+50
+Cluster 342
+Cluster number:
+112
+Cluster 343
+Cluster number:
+169
+Cluster 344
+Cluster number:
+80
+Cluster 345
+Cluster number:
+115
+Cluster 346
+Cluster number:
+69
+Cluster 347
+Cluster number:
+57
+Cluster 348
+Cluster number:
+82
+Cluster 349
+Cluster number:
+132
+Cluster 350
+Cluster number:
+159
+Cluster 351
+Cluster number:
+137
+Cluster 352
+Cluster number:
+73
+Cluster 353
+Cluster number:
+87
+Cluster 354
+Cluster number:
+128
+Cluster 355
+Cluster number:
+141
+Cluster 356
+Cluster number:
+110
+Cluster 357
+Cluster number:
+57
+Cluster 358
+Cluster number:
+125
+Cluster 359
+Cluster number:
+55
+Cluster 360
+Cluster number:
+62
+Cluster 361
+Cluster number:
+194
+Cluster 362
+Cluster number:
+128
+Cluster 363
+Cluster number:
+119
+Cluster 364
+Cluster number:
+118
+Cluster 365
+Cluster number:
+59
+Cluster 366
+Cluster number:
+70
+Cluster 367
+Cluster number:
+125
+Cluster 368
+Cluster number:
+133
+Cluster 369
+Cluster number:
+94
+Cluster 370
+Cluster number:
+124
+Cluster 371
+Cluster number:
+152
+Cluster 372
+Cluster number:
+117
+Cluster 373
+Cluster number:
+100
+Cluster 374
+Cluster number:
+82
+Cluster 375
+Cluster number:
+52
+Cluster 376
+Cluster number:
+44
+Cluster 377
+Cluster number:
+108
+Cluster 378
+Cluster number:
+49
+Cluster 379
+Cluster number:
+90
+Cluster 380
+Cluster number:
+56
+Cluster 381
+Cluster number:
+99
+Cluster 382
+Cluster number:
+150
+Cluster 383
+Cluster number:
+114
+Cluster 384
+Cluster number:
+138
+Cluster 385
+Cluster number:
+90
+Cluster 386
+Cluster number:
+107
+Cluster 387
+Cluster number:
+53
+Cluster 388
+Cluster number:
+142
+Cluster 389
+Cluster number:
+110
+Cluster 390
+Cluster number:
+56
+Cluster 391
+Cluster number:
+58
+Cluster 392
+Cluster number:
+139
+Cluster 393
+Cluster number:
+93
+Cluster 394
+Cluster number:
+22
+Cluster 395
+Cluster number:
+81
+Cluster 396
+Cluster number:
+61
+Cluster 397
+Cluster number:
+67
+Cluster 398
+Cluster number:
+37
+Cluster 399
+Cluster number:
+165
+Cluster 400
+Cluster number:
+172
+Cluster 401
+Cluster number:
+156
+Cluster 402
+Cluster number:
+115
+Cluster 403
+Cluster number:
+23
+Cluster 404
+Cluster number:
+114
+Cluster 405
+Cluster number:
+122
+Cluster 406
+Cluster number:
+68
+Cluster 407
+Cluster number:
+98
+Cluster 408
+Cluster number:
+111
+Cluster 409
+Cluster number:
+120
+Cluster 410
+Cluster number:
+61
+Cluster 411
+Cluster number:
+53
+Cluster 412
+Cluster number:
+77
+Cluster 413
+Cluster number:
+128
+Cluster 414
+Cluster number:
+45
+Cluster 415
+Cluster number:
+120
+Cluster 416
+Cluster number:
+59
+Cluster 417
+Cluster number:
+131
+Cluster 418
+Cluster number:
+55
+Cluster 419
+Cluster number:
+106
+Cluster 420
+Cluster number:
+63
+Cluster 421
+Cluster number:
+89
+Cluster 422
+Cluster number:
+121
+Cluster 423
+Cluster number:
+85
+Cluster 424
+Cluster number:
+172
+Cluster 425
+Cluster number:
+192
+Cluster 426
+Cluster number:
+129
+Cluster 427
+Cluster number:
+110
+Cluster 428
+Cluster number:
+105
+Cluster 429
+Cluster number:
+117
+Cluster 430
+Cluster number:
+88
+Cluster 431
+Cluster number:
+156
+Cluster 432
+Cluster number:
+91
+Cluster 433
+Cluster number:
+135
+Cluster 434
+Cluster number:
+91
+Cluster 435
+Cluster number:
+71
+Cluster 436
+Cluster number:
+107
+Cluster 437
+Cluster number:
+61
+Cluster 438
+Cluster number:
+94
+Cluster 439
+Cluster number:
+119
+Cluster 440
+Cluster number:
+127
+Cluster 441
+Cluster number:
+144
+Cluster 442
+Cluster number:
+165
+Cluster 443
+Cluster number:
+134
+Cluster 444
+Cluster number:
+117
+Cluster 445
+Cluster number:
+99
+Cluster 446
+Cluster number:
+107
+Cluster 447
+Cluster number:
+76
+Cluster 448
+Cluster number:
+63
+Cluster 449
+Cluster number:
+75
+Cluster 450
+Cluster number:
+201
+Cluster 451
+Cluster number:
+117
+Cluster 452
+Cluster number:
+57
+Cluster 453
+Cluster number:
+66
+Cluster 454
+Cluster number:
+75
+Cluster 455
+Cluster number:
+133
+Cluster 456
+Cluster number:
+82
+Cluster 457
+Cluster number:
+51
+Cluster 458
+Cluster number:
+91
+Cluster 459
+Cluster number:
+92
+Cluster 460
+Cluster number:
+95
+Cluster 461
+Cluster number:
+80
+Cluster 462
+Cluster number:
+121
+Cluster 463
+Cluster number:
+99
+Cluster 464
+Cluster number:
+140
+Cluster 465
+Cluster number:
+129
+Cluster 466
+Cluster number:
+188
+Cluster 467
+Cluster number:
+179
+Cluster 468
+Cluster number:
+142
+Cluster 469
+Cluster number:
+133
+Cluster 470
+Cluster number:
+120
+Cluster 471
+Cluster number:
+137
+Cluster 472
+Cluster number:
+146
+Cluster 473
+Cluster number:
+90
+Cluster 474
+Cluster number:
+79
+Cluster 475
+Cluster number:
+141
+Cluster 476
+Cluster number:
+93
+Cluster 477
+Cluster number:
+48
+Cluster 478
+Cluster number:
+126
+Cluster 479
+Cluster number:
+108
+Cluster 480
+Cluster number:
+45
+Cluster 481
+Cluster number:
+91
+Cluster 482
+Cluster number:
+139
+Cluster 483
+Cluster number:
+86
+Cluster 484
+Cluster number:
+141
+Cluster 485
+Cluster number:
+130
+Cluster 486
+Cluster number:
+92
+Cluster 487
+Cluster number:
+79
+Cluster 488
+Cluster number:
+171
+Cluster 489
+Cluster number:
+117
+Cluster 490
+Cluster number:
+92
+Cluster 491
+Cluster number:
+193
+Cluster 492
+Cluster number:
+119
+Cluster 493
+Cluster number:
+91
+Cluster 494
+Cluster number:
+54
+Cluster 495
+Cluster number:
+59
+Cluster 496
+Cluster number:
+57
+Cluster 497
+Cluster number:
+96
+Cluster 498
+Cluster number:
+97
+Cluster 499
+Cluster number:
+69
+Cluster 500
+Cluster number:
+97
+Cluster 501
+Cluster number:
+123
+Cluster 502
+Cluster number:
+56
+Cluster 503
+Cluster number:
+177
+Cluster 504
+Cluster number:
+200
+Cluster 505
+Cluster number:
+97
+Cluster 506
+Cluster number:
+79
+Cluster 507
+Cluster number:
+60
+Cluster 508
+Cluster number:
+131
+Cluster 509
+Cluster number:
+67
+Cluster 510
+Cluster number:
+79
+Cluster 511
+Cluster number:
+117
+Cluster 512
+Cluster number:
+51
+Cluster 513
+Cluster number:
+108
+Cluster 514
+Cluster number:
+76
+Cluster 515
+Cluster number:
+138
+Cluster 516
+Cluster number:
+112
+Cluster 517
+Cluster number:
+56
+Cluster 518
+Cluster number:
+110
+Cluster 519
+Cluster number:
+144
+Cluster 520
+Cluster number:
+139
+Cluster 521
+Cluster number:
+68
+Cluster 522
+Cluster number:
+116
+Cluster 523
+Cluster number:
+136
+Cluster 524
+Cluster number:
+125
+Cluster 525
+Cluster number:
+148
+Cluster 526
+Cluster number:
+87
+Cluster 527
+Cluster number:
+73
+Cluster 528
+Cluster number:
+40
+Cluster 529
+Cluster number:
+85
+Cluster 530
+Cluster number:
+83
+Cluster 531
+Cluster number:
+91
+Cluster 532
+Cluster number:
+77
+Cluster 533
+Cluster number:
+83
+Cluster 534
+Cluster number:
+141
+Cluster 535
+Cluster number:
+84
+Cluster 536
+Cluster number:
+66
+Cluster 537
+Cluster number:
+122
+Cluster 538
+Cluster number:
+127
+Cluster 539
+Cluster number:
+175
+Cluster 540
+Cluster number:
+131
+Cluster 541
+Cluster number:
+99
+Cluster 542
+Cluster number:
+127
+Cluster 543
+Cluster number:
+50
+Cluster 544
+Cluster number:
+107
+Cluster 545
+Cluster number:
+73
+Cluster 546
+Cluster number:
+130
+Cluster 547
+Cluster number:
+91
+Cluster 548
+Cluster number:
+47
+Cluster 549
+Cluster number:
+120
+Cluster 550
+Cluster number:
+110
+Cluster 551
+Cluster number:
+112
+Cluster 552
+Cluster number:
+48
+Cluster 553
+Cluster number:
+131
+Cluster 554
+Cluster number:
+125
+Cluster 555
+Cluster number:
+145
+Cluster 556
+Cluster number:
+91
+Cluster 557
+Cluster number:
+80
+Cluster 558
+Cluster number:
+143
+Cluster 559
+Cluster number:
+144
+Cluster 560
+Cluster number:
+79
+Cluster 561
+Cluster number:
+103
+Cluster 562
+Cluster number:
+79
+Cluster 563
+Cluster number:
+140
+Cluster 564
+Cluster number:
+64
+Cluster 565
+Cluster number:
+99
+Cluster 566
+Cluster number:
+79
+Cluster 567
+Cluster number:
+112
+Cluster 568
+Cluster number:
+120
+Cluster 569
+Cluster number:
+141
+Cluster 570
+Cluster number:
+67
+Cluster 571
+Cluster number:
+68
+Cluster 572
+Cluster number:
+43
+Cluster 573
+Cluster number:
+81
+Cluster 574
+Cluster number:
+94
+Cluster 575
+Cluster number:
+73
+Cluster 576
+Cluster number:
+109
+Cluster 577
+Cluster number:
+96
+Cluster 578
+Cluster number:
+72
+Cluster 579
+Cluster number:
+78
+Cluster 580
+Cluster number:
+116
+Cluster 581
+Cluster number:
+106
+Cluster 582
+Cluster number:
+66
+Cluster 583
+Cluster number:
+45
+Cluster 584
+Cluster number:
+100
+Cluster 585
+Cluster number:
+127
+Cluster 586
+Cluster number:
+106
+Cluster 587
+Cluster number:
+123
+Cluster 588
+Cluster number:
+152
+Cluster 589
+Cluster number:
+59
+Cluster 590
+Cluster number:
+82
+Cluster 591
+Cluster number:
+47
+Cluster 592
+Cluster number:
+108
+Cluster 593
+Cluster number:
+120
+Cluster 594
+Cluster number:
+107
+Cluster 595
+Cluster number:
+76
+Cluster 596
+Cluster number:
+121
+Cluster 597
+Cluster number:
+121
+Cluster 598
+Cluster number:
+101
+Cluster 599
+Cluster number:
+87
+Cluster 600
+Cluster number:
+74
+Cluster 601
+Cluster number:
+70
+Cluster 602
+Cluster number:
+78
+Cluster 603
+Cluster number:
+76
+Cluster 604
+Cluster number:
+150
+Cluster 605
+Cluster number:
+136
+Cluster 606
+Cluster number:
+43
+Cluster 607
+Cluster number:
+133
+Cluster 608
+Cluster number:
+109
+Cluster 609
+Cluster number:
+80
+Cluster 610
+Cluster number:
+152
+Cluster 611
+Cluster number:
+85
+Cluster 612
+Cluster number:
+88
+Cluster 613
+Cluster number:
+132
+Cluster 614
+Cluster number:
+104
+Cluster 615
+Cluster number:
+89
+Cluster 616
+Cluster number:
+87
+Cluster 617
+Cluster number:
+81
+Cluster 618
+Cluster number:
+131
+Cluster 619
+Cluster number:
+61
+Cluster 620
+Cluster number:
+52
+Cluster 621
+Cluster number:
+113
+Cluster 622
+Cluster number:
+178
+Cluster 623
+Cluster number:
+81
+Cluster 624
+Cluster number:
+103
+Cluster 625
+Cluster number:
+127
+Cluster 626
+Cluster number:
+97
+Cluster 627
+Cluster number:
+83
+Cluster 628
+Cluster number:
+80
+Cluster 629
+Cluster number:
+54
+Cluster 630
+Cluster number:
+86
+Cluster 631
+Cluster number:
+46
+Cluster 632
+Cluster number:
+140
+Cluster 633
+Cluster number:
+114
+Cluster 634
+Cluster number:
+152
+Cluster 635
+Cluster number:
+134
+Cluster 636
+Cluster number:
+59
+Cluster 637
+Cluster number:
+149
+Cluster 638
+Cluster number:
+59
+Cluster 639
+Cluster number:
+109
+Cluster 640
+Cluster number:
+151
+Cluster 641
+Cluster number:
+162
+Cluster 642
+Cluster number:
+87
+Cluster 643
+Cluster number:
+147
+Cluster 644
+Cluster number:
+95
+Cluster 645
+Cluster number:
+95
+Cluster 646
+Cluster number:
+120
+Cluster 647
+Cluster number:
+93
+Cluster 648
+Cluster number:
+75
+Cluster 649
+Cluster number:
+125
+Cluster 650
+Cluster number:
+88
+Cluster 651
+Cluster number:
+162
+Cluster 652
+Cluster number:
+106
+Cluster 653
+Cluster number:
+71
+Cluster 654
+Cluster number:
+140
+Cluster 655
+Cluster number:
+45
+Cluster 656
+Cluster number:
+43
+Cluster 657
+Cluster number:
+90
+Cluster 658
+Cluster number:
+129
+Cluster 659
+Cluster number:
+77
+Cluster 660
+Cluster number:
+69
+Cluster 661
+Cluster number:
+67
+Cluster 662
+Cluster number:
+126
+Cluster 663
+Cluster number:
+100
+Cluster 664
+Cluster number:
+63
+Cluster 665
+Cluster number:
+85
+Cluster 666
+Cluster number:
+167
+Cluster 667
+Cluster number:
+98
+Cluster 668
+Cluster number:
+125
+Cluster 669
+Cluster number:
+154
+Cluster 670
+Cluster number:
+92
+Cluster 671
+Cluster number:
+127
+Cluster 672
+Cluster number:
+114
+Cluster 673
+Cluster number:
+78
+Cluster 674
+Cluster number:
+85
+Cluster 675
+Cluster number:
+74
+Cluster 676
+Cluster number:
+107
+Cluster 677
+Cluster number:
+158
+Cluster 678
+Cluster number:
+96
+Cluster 679
+Cluster number:
+89
+Cluster 680
+Cluster number:
+68
+Cluster 681
+Cluster number:
+44
+Cluster 682
+Cluster number:
+113
+Cluster 683
+Cluster number:
+75
+Cluster 684
+Cluster number:
+85
+Cluster 685
+Cluster number:
+96
+Cluster 686
+Cluster number:
+51
+Cluster 687
+Cluster number:
+79
+Cluster 688
+Cluster number:
+159
+Cluster 689
+Cluster number:
+119
+Cluster 690
+Cluster number:
+70
+Cluster 691
+Cluster number:
+87
+Cluster 692
+Cluster number:
+49
+Cluster 693
+Cluster number:
+125
+Cluster 694
+Cluster number:
+84
+Cluster 695
+Cluster number:
+68
+Cluster 696
+Cluster number:
+67
+Cluster 697
+Cluster number:
+135
+Cluster 698
+Cluster number:
+59
+Cluster 699
+Cluster number:
+120
+Cluster 700
+Cluster number:
+81
+Cluster 701
+Cluster number:
+77
+Cluster 702
+Cluster number:
+138
+Cluster 703
+Cluster number:
+122
+Cluster 704
+Cluster number:
+43
+Cluster 705
+Cluster number:
+118
+Cluster 706
+Cluster number:
+83
+Cluster 707
+Cluster number:
+110
+Cluster 708
+Cluster number:
+76
+Cluster 709
+Cluster number:
+117
+Cluster 710
+Cluster number:
+65
+Cluster 711
+Cluster number:
+142
+Cluster 712
+Cluster number:
+99
+Cluster 713
+Cluster number:
+109
+Cluster 714
+Cluster number:
+103
+Cluster 715
+Cluster number:
+103
+Cluster 716
+Cluster number:
+80
+Cluster 717
+Cluster number:
+92
+Cluster 718
+Cluster number:
+121
+Cluster 719
+Cluster number:
+147
+Cluster 720
+Cluster number:
+80
+Cluster 721
+Cluster number:
+120
+Cluster 722
+Cluster number:
+115
+Cluster 723
+Cluster number:
+67
+Cluster 724
+Cluster number:
+95
+Cluster 725
+Cluster number:
+61
+Cluster 726
+Cluster number:
+64
+Cluster 727
+Cluster number:
+51
+Cluster 728
+Cluster number:
+96
+Cluster 729
+Cluster number:
+92
+Cluster 730
+Cluster number:
+122
+Cluster 731
+Cluster number:
+92
+Cluster 732
+Cluster number:
+110
+Cluster 733
+Cluster number:
+93
+Cluster 734
+Cluster number:
+76
+Cluster 735
+Cluster number:
+88
+Cluster 736
+Cluster number:
+87
+Cluster 737
+Cluster number:
+24
+Cluster 738
+Cluster number:
+84
+Cluster 739
+Cluster number:
+57
+Cluster 740
+Cluster number:
+68
+Cluster 741
+Cluster number:
+129
+Cluster 742
+Cluster number:
+110
+Cluster 743
+Cluster number:
+71
+Cluster 744
+Cluster number:
+113
+Cluster 745
+Cluster number:
+103
+Cluster 746
+Cluster number:
+94
+Cluster 747
+Cluster number:
+89
+Cluster 748
+Cluster number:
+146
+Cluster 749
+Cluster number:
+174
+Cluster 750
+Cluster number:
+98
+Cluster 751
+Cluster number:
+130
+Cluster 752
+Cluster number:
+106
+Cluster 753
+Cluster number:
+84
+Cluster 754
+Cluster number:
+68
+Cluster 755
+Cluster number:
+102
+Cluster 756
+Cluster number:
+136
+Cluster 757
+Cluster number:
+62
+Cluster 758
+Cluster number:
+133
+Cluster 759
+Cluster number:
+95
+Cluster 760
+Cluster number:
+37
+Cluster 761
+Cluster number:
+132
+Cluster 762
+Cluster number:
+104
+Cluster 763
+Cluster number:
+56
+Cluster 764
+Cluster number:
+70
+Cluster 765
+Cluster number:
+110
+Cluster 766
+Cluster number:
+86
+Cluster 767
+Cluster number:
+72
+Cluster 768
+Cluster number:
+32
+Cluster 769
+Cluster number:
+60
+Cluster 770
+Cluster number:
+83
+Cluster 771
+Cluster number:
+125
+Cluster 772
+Cluster number:
+77
+Cluster 773
+Cluster number:
+100
+Cluster 774
+Cluster number:
+70
+Cluster 775
+Cluster number:
+100
+Cluster 776
+Cluster number:
+116
+Cluster 777
+Cluster number:
+55
+Cluster 778
+Cluster number:
+77
+Cluster 779
+Cluster number:
+116
+Cluster 780
+Cluster number:
+139
+Cluster 781
+Cluster number:
+77
+Cluster 782
+Cluster number:
+111
+Cluster 783
+Cluster number:
+43
+Cluster 784
+Cluster number:
+109
+Cluster 785
+Cluster number:
+123
+Cluster 786
+Cluster number:
+62
+Cluster 787
+Cluster number:
+133
+Cluster 788
+Cluster number:
+77
+Cluster 789
+Cluster number:
+122
+Cluster 790
+Cluster number:
+149
+average cluster number:
+100
+original accuracy:
+75.57%
+new accuracy:
+76%
